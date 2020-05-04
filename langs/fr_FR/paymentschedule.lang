@@ -74,7 +74,7 @@ PaymentScheduleCreate=Créer échéancier
 
 PeriodicityUnit=Unité période
 PeriodicityValue=Valeur période (toutes les x unité)
-NbTerm=Nombre d'échéance
+NbTerm=Nombre d'échéances
 paymentschedule_periodicityDay=Jour
 paymentschedule_periodicityMonth=Mois
 paymentschedule_periodicityYear=Année
